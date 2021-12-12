@@ -1,6 +1,6 @@
-# Cybersecurity Threat Detection and Huntin
+# Cybersecurity Threat Detection and Hunting
 > Welcome to the world of Threat Detection in Cybersecurity
-A collection of frameworks, libraries, resources, softwares and tutorials, books, resources and interesting stuff about threat detection in Cybersecurity.
+A collection of frameworks, libraries, resources, softwares, learning tutorials, and interesting stuff about cyber threat detection.
 
 ## Contents
 
