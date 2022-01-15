@@ -4,7 +4,7 @@ A collection of frameworks, libraries, resources, software, learning tutorials, 
 
 ![cyberthreat](https://github.com/paulveillard/cybersecurity-threat-detection/blob/main/cyberthreat.png)
 
-## Contents
+## `Table of Contents`
 
 - [Threat Detection and Hunting](#threat-detection-and-hunting)
     - [Tools](#tools)
@@ -34,7 +34,7 @@ A collection of frameworks, libraries, resources, software, learning tutorials, 
 - [License](#license)
 
 
-## Threat Detection and Hunting
+## `Threat Detection and Hunting`
 
 
 ### Tools
