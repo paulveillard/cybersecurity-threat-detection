@@ -1,6 +1,6 @@
 # Cybersecurity Threat Detection and Hunting
-> Welcome to the world of Threat Detection in Cybersecurity
-A collection of frameworks, libraries, resources, software, learning tutorials, and interesting stuff about cyber threat detection.
+
+>An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Detection & Hunting.
 
 ![cyberthreat](https://github.com/paulveillard/cybersecurity-threat-detection/blob/main/cyberthreat.png)
 
