@@ -1,6 +1,6 @@
 # Cybersecurity Threat Detection and Hunting
 
->An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Detection & Hunting.
+> An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Detection & Hunting.
 
 ![cyberthreat](https://github.com/paulveillard/cybersecurity-threat-detection/blob/main/cyberthreat.png)
 
